@@ -10,7 +10,7 @@ Hospital Patient Analytics is a healthcare business intelligence project develop
 
 - Analyze patient demographics and clinical characteristics
 - Evaluate treatment outcomes and survival rates
-- Monitor healthcare KPIs and performance metrics
+- Perform cohort and disease stage analysis
 - Identify trends across patient groups
 - Support data-driven healthcare decision making
 
@@ -40,8 +40,8 @@ Hospital Patient Analytics is a healthcare business intelligence project develop
 
 ## Dashboard Features
 
-- Interactive KPI Cards
 - Survival Rate Analysis
+- Disease Stage Distribution Analysis
 - Patient Demographic Insights
 - Treatment Outcome Evaluation
 - Dynamic Filtering & Slicers
