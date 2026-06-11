@@ -57,7 +57,7 @@ This project enables healthcare stakeholders to monitor patient outcomes, evalua
 
 ## Dashboard Preview
 
-![Dashboard](hospital-dashboard.png)
+![Overview](hospital-overview-dashboard.png)
 
 ---
 
